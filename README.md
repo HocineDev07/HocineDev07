@@ -25,6 +25,8 @@
   
 - 💬 Ask me about MySql,Sqlite Firebase, Java, Html, Css, JavaScript.
 
+- 📄 Know about my experiences <a href="https://www.hocinedev.com/wp-content/uploads/2022/10/Hocine-Houdjedje-cv.pdf" target="blank">Resume</a>
+
 - ⚡ My favorite hobby: football ⚽.
 
 - 📫 How to reach me houcinehoud664@gmail.com
