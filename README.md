@@ -15,7 +15,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+<img width="30%" align="right" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 
 - 🔭 I’m currently working as a Freelancer on Android applications.
   
