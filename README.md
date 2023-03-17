@@ -7,7 +7,7 @@
 </p>
 
 
-<!--![Profile views](https://visitor-badge.glitch.me/badge?page_id=HocineDev07)-->
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=HocineDev07)
 [![Github](https://img.shields.io/github/followers/HocineDev07?label=Follow&style=social)](https://github.com/HocineDev07)
 
 <div size='20px'> Hi! My name is Hocine Houdjedje. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -15,7 +15,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://avatars.githubusercontent.com/u/39390691?s=400&u=edd74f95c85ddf9d8e20d0773250b9161ff82db3&v=4" />
+<img width="55%" align="right" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 
 - 🔭 I’m currently working as a Freelancer on Android applications.
   
