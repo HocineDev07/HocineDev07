@@ -18,13 +18,13 @@
 
 <img width="30%" align="right" alt="Github" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 
-- 🔭 I’m currently working as a Freelancer on Android applications.
+- 🔭 I’m currently working as a system engineer and as a freelancer of odoo ERP
   
-- 🌱 I’m currently learning Kotlin, Jetpack Compose.
+- 🌱 I’m currently learning odoo development
   
-- 👯 I’m looking to collaborate on making Android applications.
+- 👯 I’m looking to collaborate on making odoo applications
   
-- 💬 Ask me about MySql,Sqlite Firebase, Java, Html, Css, JavaScript.
+- 💬 Ask me about MySql, Sqlite, Postgresql, Firebase, Odoo, Java, Android
 
 - 📄 Know about my experiences <a href="https://www.hocinedev.com/wp-content/uploads/2022/10/Hocine-Houdjedje-cv.pdf" target="blank">Resume</a>
 
