@@ -26,7 +26,7 @@
   
 - 💬 Ask me about MySql, Sqlite, Postgresql, Firebase, Odoo, Java, Android
 
-- 📄 Know about my experiences <a href="https://www.hocinedev.com/wp-content/uploads/2022/10/Hocine-Houdjedje-cv.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="[https://www.hocinedev.com/wp-content/uploads/2022/10/Hocine-Houdjedje-cv.pdf](https://app.sajilocv.com/cv/Hocine-dev)" target="blank">Resume</a>
 
 - ⚡ My favorite hobby: football ⚽.
 
